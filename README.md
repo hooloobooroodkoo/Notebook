@@ -6,7 +6,7 @@ Notebook is a Python mini-program for writing down some notes.
 
 Download repository and run the module "menu.py"
 
-![Screenshot](ScreenshotNotebook_1.png)
+![Screenshot](Screens/ScreenshotNotebook_1.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
